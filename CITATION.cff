@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Shao"
+    given-names: "Shoupeng"
+    alias: "魔法徽章"
+title: "认知语义基元三论（CSMT / CCT / CART）：同一理论 T 的三种等价公理化"
+title-en: "Cognitive Semantic Primitive Trilogy (CSMT/CCT/CART): Three Equivalent Axiomatizations of One Theory T"
+version: 1.0
+date-released: "2026-09-16"
+url: "https://gitee.com/mofahuizhang/CSMT-CCT-CART"
+doi: "10.5281/zenodo.21831385"
+license:
+  - "MulanPSL-2.0"
+  - "CC-BY-NC-4.0"
+abstract: >-
+  A trilogy of three equivalent axiomatizations of a single theory T on cognitive semantics:
+  CSMT (semantic primitive matrix, static structure), CCT (cognitive encoding, dynamic coding),
+  and CART (cognitive attention resources, resource generation). CSMT and CCT start from
+  axiom A0 plus postulates P1-P3; CART gives a deeper reduction from hard constraints B1
+  (attention budget) and B2 (carrier separation) to A0/P1-P3. All three share one proposition
+  registry (SSOT) and 19 volumes in six-volume sets per framework.
+keywords:
+  - "cognitive semantics"
+  - "semantic primitive"
+  - "attention budget"
+  - "axiomatization"
+  - "semantic encoding"
+  - "large language models"
